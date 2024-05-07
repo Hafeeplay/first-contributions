@@ -47,6 +47,7 @@ v0idborne
 - [Harsh Suthar](https://github.com/10234567Z)
 - [Shili Lin](https://github.com/shililin92)
 - [Aby George](https://github.com/AbyG1)
+- [Shaik Abdul Hafeez](https://github.com/hafeeplay)
 - [Shili] (https://www.linkedin.com/in/shi-li-lin-20075213b/)
 - Luferox paso por aqui
 - [Mikkel Hebel](https://github.com/MikkelHebel)

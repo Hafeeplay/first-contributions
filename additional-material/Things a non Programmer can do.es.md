@@ -10,7 +10,7 @@ Algunos proyectos pueden acoger con agrado ese tipo de enfoque, pero si el proye
 1. **Únase a una lista de correo** : para muchos proyectos, la lista de correo es el principal conducto de comunicación sobre el desarrollo del proyecto.
 En proyectos grandes, hay muchas listas de correo para elegir.
 Por ejemplo, el proyecto PostgreSQL tiene no menos de 12 listas orientadas a usuarios y seis listas de desarrolladores en su página de lista de correo.
-Le sugiero que siga la lista principal orientada al usuario y la lista principal de desarrolladores para comenzar a escuchar.
+Le sugiero que siga la lista principal orientada al usuario y la lista principal de lladores para comenzar a escuchar.
 
 2. **Siga un blog** : los blogs mantenidos por desarrolladores principales a menudo brindan información sobre lo que se avecina en futuras versiones.
 y lo que se necesita para llegar allí. Un sitio planetario agrega noticias y entradas de blogs de muchas fuentes relacionadas con el proyecto.
